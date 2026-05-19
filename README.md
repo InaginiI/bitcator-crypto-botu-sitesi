@@ -23,7 +23,7 @@ Staj boyunca üstlendiğim bu yeniden tasarım projesinde aşağıdaki başlıkl
 - **7/24 AI destekli trading botları** — otomatik alım/satım işlemleri
 - **Canlı fiyat takibi** — gerçek zamanlı BTC/USDT görünümü
 - **Karanlık / Aydınlık tema** — kullanıcı tercihine göre
-- **Çok dil desteği** — Türkçe, İngilizce, Almanca (next-intl)
+- 
 
 ### Sayfalar
 | Sayfa | Açıklama |
@@ -123,20 +123,6 @@ bitcator/
     └── images/          # Logo, partner ve özellik görselleri
 ```
 
----
-
-## Fiyatlandırma Planları
-
-| Plan | Fiyat | Bot Sayısı | İşlem Çifti |
-|------|-------|-----------|-------------|
-| Free | Ücretsiz | 1 | 1 |
-| Starter | $9/ay | 3 | 10 |
-| Advanced | $18/ay | 10 | 30 |
-| Premium | $35/ay | Sınırsız | Sınırsız |
-
-Yıllık abonelikte **%25 indirim** uygulanmaktadır.
-
----
 
 ## Geliştirici
 
